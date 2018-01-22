@@ -1,0 +1,10 @@
+{
+    "4k randread": ["4K", "randread"],
+    "4k randwrite": ["4K", "randwrite"],
+    "8k randread": ["8K", "randread"],
+    "8k randwrite": ["8K", "randwrite"],
+    "16k randread": ["16K", "randread"],
+    "16k randwrite": ["16K", "randwrite"],
+    "32k randread": ["32K", "randread"],
+    "32k randwrite": ["32K", "randwrite"]
+}

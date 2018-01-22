@@ -1,0 +1,16 @@
+{
+"cinder": ["cinder", "volume"],
+"grafana": ["grafana", "monitor"],
+"ova": ["nova", "compute"],
+"swift": ["swift", "object-store"],
+"keystone": ["keystone", "identity"],
+"neutron": ["neutron", "network"],
+"heat": ["heat", "orchestration"],
+"glance": ["glance", "image"],
+"swift_s3": ["swift_s3", "s3" ],
+"heat-cfn": ["heat-cfn", "cloudformation"],
+"novav3": ["novav3", "computev3"],
+"ceilometer": ["ceilometer", "metering"],
+"cinderv2": ["cinderv2", "volumev2"],
+"nova_ec2": ["nova_ec2", "ec2"]
+}

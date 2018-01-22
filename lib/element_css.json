@@ -1,0 +1,12 @@
+{
+    "项目2":  "a[href='/dashboard/identity/']",
+    "对象存储": "a[href='#sidebar-accordion-project-object_store']",
+    "用户": "a[href='/dashboard/identity/users/']",
+    "网络2": "a[href='/dashboard/project/networks/']",
+    "概况2": "a[href='/dashboard/project/']",
+    "下拉框": "a[data-toggle='dropdown']",
+    "筛选":"input[placeholder='筛选']",
+    "设置": "a[href=\"/dashboard/settings/\"]",
+    "删除子网": "td.delete>button",
+    "全部": "div.tablesorter-header-inner>input"
+}

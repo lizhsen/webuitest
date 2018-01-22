@@ -1,0 +1,6 @@
+{
+    "Copy test on small instance": ["small", "Copy"],
+    "Scale test on small instance": ["small", "Scale"],
+    "Add test on small instance": ["small", "Add"],
+    "Triad test on small instance": ["small", "Triad"]
+}

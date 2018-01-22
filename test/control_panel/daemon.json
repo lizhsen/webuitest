@@ -1,0 +1,16 @@
+{
+     "ha01_mon02_osd01_garbd": ["ha01-mon02-osd01", "garbd"],
+     "ha01_mon02_osd01_keepalived": ["ha01-mon02-osd01", "keepalived"],
+     "ha01_mon02_osd01_libvirtd": ["ha01-mon02-osd01", "libvirtd"],
+     "ha02-mon03-osd02_garbd": ["ha02-mon03-osd02", "garbd"],
+     "ha02-mon03-osd02_keepalived": ["ha02-mon03-osd02", "keepalived"],
+     "ha02-mon03-osd02_libvirtd": ["ha02-mon03-osd02", "libvirtd"],
+     "contrl01_admin_libvirtd": ["contrl01-admin", "libvirtd"],
+     "contrl01_admin_mysqld": ["contrl01-admin", "mysqld"],
+     "contrl01_admin_rabbitmq": ["contrl01-admin", "rabbitmq-server.service"],
+     "contrl02_mon01_libvirtd": ["contrl02-mon01", "libvirtd"],
+     "contrl02_mon01_mysqld": ["contrl02-mon01", "mysqld"],
+     "contrl02_mon01_rabbitmq": ["contrl02-mon01", "rabbitmq-server.service"],
+     "compute01_osd03_libvirtd": ["compute01-osd03", "libvirtd"],
+     "compute02_osd04_libvirtd": ["compute02-osd04", "libvirtd"]
+}

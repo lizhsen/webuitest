@@ -1,0 +1,6 @@
+{
+     "ha01_mon02_osd01_magent": ["ha01-mon02-osd01", "magent.*11211"],
+     "ha02-mon03-osd02_magent": ["ha02-mon03-osd02", "magent.*11211"],
+     "contrl01_admin_rabbitmq": ["contrl01-admin", "rabbitmq"],
+     "contrl02_mon01_rabbitmq": ["contrl02-mon01", "rabbitmq"]
+}

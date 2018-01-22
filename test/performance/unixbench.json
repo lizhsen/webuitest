@@ -1,0 +1,14 @@
+{
+    "small string": ["small", "dhry2reg"],
+    "small float": ["small", "whetstone-double"],
+    "small complex": ["small", "-c 4"],
+    "medium string": ["medium", "dhry2reg"],
+    "medium float": ["medium", "whetstone-double"],
+    "medium complex": ["medium", "-c 4"],
+    "large string": ["large", "dhry2reg"],
+    "large float": ["large", "whetstone-double"],
+    "large complex": ["large", "-c 4"],
+    "xlarge string": ["xlarge", "dhry2reg"],
+    "xlarge float": ["xlarge", "whetstone-double"],
+    "xlarge complex": ["xlarge", "-c 4"]
+}
